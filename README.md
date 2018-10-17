@@ -1,7 +1,4 @@
-# sample2
-trying to connect in two systems
-hai
-hoe r u
-
-
-hello
+a=10
+b=20
+c=a+b
+print("the sum is=",c)
